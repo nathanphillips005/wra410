@@ -1,0 +1,101 @@
+body {
+    background-color: #979A9A  ;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: #616A6B;
+}
+
+h1, h2, h3  {
+  margin: 0;
+  padding: 10px;
+}
+
+#container {
+    background-color: white;
+    width: 1000px;
+    margin-left: auto;
+    margin-right:auto;
+}
+
+#header {
+    background-color: #18453B;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+#content {
+  padding: 10px;
+
+}
+
+#nav {
+  width: 150px;
+  float: left;
+  padding: 20px;
+
+}
+
+#nav ul {
+  list-style-type: none;
+  padding: 0;
+
+}
+
+
+#nav .selected {
+  font-weight: bold;
+  color: black;
+}
+
+#main {
+  width: 750px;
+  float: right;
+
+}
+
+#student-group {
+  clear: both;
+  margin: 20px;
+  border: 20px;
+  padding: 10px;
+  background-color:  #d3d3d3;
+  color: black;
+  text-align: left;
+  column-count: 2;
+
+}
+
+#footer {
+  clear: both;
+  padding: 10px;
+  background-color: #97a2a2;
+  color: white;
+  text-align: right;
+}
+.schedule-date {
+  font-weight: bold;
+  color: black;
+  text-align: right;
+}
+.schedule-resources {
+  font-weight: lighter;
+  color: black;
+  text-align: left;
+}
+#image01  {
+width: 300px;
+
+}
+
+#image02 {
+width: 300px;
+
+
+}
+#gradescale td {
+  border: 1px solid #ddd;
+  padding: 8px;
